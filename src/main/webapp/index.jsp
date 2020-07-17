@@ -1,3 +1,5 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 
 <html>
@@ -29,7 +31,7 @@
 			<h1>SEJA BEM VINDO!</h1>
 			<h2>Favor entrar com seu login</h2>
 
-			<form action="Usuario" method="post">
+			<form action="usuario" method="post"/>
 
 				<h3>Login:</h3>
 				<input type="text" name="login"><br>
